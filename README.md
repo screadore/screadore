@@ -1,3 +1,5 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=screadore)](https://github.com/screadore/github-readme-stats)
+
 - 👀 I’m interested in developing novel software to promote the progression of decentralized applications (dApps) and Blockchain technology within the major markets.
 - 🌱 I’m currently building out Web3, Blockchain Technology, and Solidity smart contract infrastructure to enhance interoperability, scalability, and security.
 - 📫 How to reach me on my linkedIN profile https://www.linkedin.com/in/stefan-creadore/ or email: stefan@exzocoin.com.
